@@ -1,1 +1,1 @@
-8.222.155.12,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.155.12,SG,Alibaba Cloud
